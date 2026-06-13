@@ -3,4 +3,4 @@
 A developer's Swiss Army knife with `tap` — cross-shell shortcuts that become native commands.
 
 ## Buy now on Polar
-[buy now](https://polar.sh/omarchy/products/6253698b-9018-464c-a88a-2dbaa533a9b7)
+[buy now](https://buy.polar.sh/polar_cl_zvnuIMcqUEG0ghrgaFfFV9PivHvnI9esOA40D25wvUK)
